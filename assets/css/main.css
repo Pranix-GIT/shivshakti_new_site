@@ -1,14 +1,5 @@
 /*-----------------------------------------------------------------------------------
 
-    Template Name: Zoomy - E-learning HTML5 Template
-    Author: 
-    Version: 1.0
-
------------------------------------------------------------------------------------
-
-    CSS INDEX
-    ===================
-
     01. Theme default CSS
 	02. variables
     03. mixins
@@ -49,6 +40,7 @@ body {
   font-weight: 400;
   font-style: normal;
   color: #707070;
+  padding-top: -50px;
 }
 
 .f-left {
@@ -706,6 +698,7 @@ section-title
   z-index: 999;
   left: 0;
   right: 0;
+  margin-bottom: 20px;
 }
 
 .main-header-area .logo-img img {
@@ -716,6 +709,7 @@ section-title
   .main-header-area {
     padding-left: 15px;
     padding-right: 15px;
+    margin-bottom: 20px;
   }
 }
 
@@ -2888,6 +2882,7 @@ input.main-search-input:-ms-input-placeholder {
   right: 0;
   top: 180px;
   z-index: 2;
+  margin-bottom: -20px;
 }
 
 .slider__img__box {
